@@ -2,14 +2,14 @@
 module.exports = {
   title: "WIZnet ASG DM Document System",
   tagline: "Welcome to WIZnet ASG DM Document System",
-  url: "https://wiznet-azure-sphere.github.io/WIZnet-ASG-PoC-Docs",
-  baseUrl: "/WIZnet-ASG-PoC-Docs/",
+  url: "https://wiznet-azure-sphere.github.io/WIZnet-ASG-DM-Docs",
+  baseUrl: "/WIZnet-ASG-DM-Docs/",
   // baseUrl: "/",
   onBrokenLinks: "warn",
   onBrokenMarkdownLinks: "warn",
   favicon: "img/favicon.ico",
   organizationName: "WIZnet-Azure-Sphere", // Usually your GitHub org/user name.
-  projectName: "WIZnet-ASG-PoC-Docs", // Usually your repo name.
+  projectName: "WIZnet-ASG-DM-Docs", // Usually your repo name.
   themeConfig: {
     navbar: {
       title: "WIZnet ASG Docs",
@@ -26,7 +26,7 @@ module.exports = {
         // },
         // { to: "/blog", label: "Blog", position: "left" },
         {
-          href: "https://github.com/WIZnet-Azure-Sphere/WIZnet-ASG-PoC-Docs/docs",
+          href: "https://github.com/WIZnet-Azure-Sphere/WIZnet-ASG-DM-Docs/docs",
           label: "GitHub",
           position: "right"
         }
