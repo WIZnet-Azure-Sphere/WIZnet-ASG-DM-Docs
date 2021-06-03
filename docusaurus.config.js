@@ -12,7 +12,7 @@ module.exports = {
   projectName: "WIZnet-ASG-DM-Docs", // Usually your repo name.
   themeConfig: {
     navbar: {
-      title: "WIZnet ASG Docs",
+      title: "WIZnet ASG DM Documentation",
       logo: {
         alt: "WinC Logo",
         src: "img/WIZcloud-logo_01_256x256.png"
@@ -26,7 +26,7 @@ module.exports = {
         // },
         // { to: "/blog", label: "Blog", position: "left" },
         {
-          href: "https://github.com/WIZnet-Azure-Sphere/WIZnet-ASG-DM-Docs/docs",
+          href: "https://github.com/WIZnet-Azure-Sphere/WIZnet-ASG-DM-Docs/",
           label: "GitHub",
           position: "right"
         }

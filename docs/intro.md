@@ -12,10 +12,10 @@ ASG DM(Device Management service)의 핵심 서비스는 On-premise 구조의 �
 
 <!-- ![](../static/img/asgdm/ASGDM_waton_overview.png) -->
 
-## ASG DM 블록 다이어그램
+<!-- ## ASG DM 블록 다이어그램
 ASG DM은 MS Azure에서 서비스하는 Azure Sphere 전용 Security service, IoT Core system, 그리고 사용자 Web service를 위한 Azure App service로 구성되어 있다.
 
-![](../static/img/asgdm/ASGDM_block_diagram.png)
+![](../static/img/asgdm/ASGDM_block_diagram.png) -->
 
 <!-- ## ASG DM - Waton
 ASG DM은 다양한 On-premise 구조에 적용하기 위한 Customizing 서비스를 제공한다. Waton의 PoC를 통하여 ASG DM은 ASG210 외에도 Waton에서 기존에 사용되던 시스템인 WIZ750SR-Waton 디바이스의 네트워크 설정, 연결상태 체크등을 위한 추가 커스터마이징 작업이 진행되었다.
